@@ -40,16 +40,12 @@ h1, h2, h3, h4, h5, h6 {
     font-family: var(--font-heading);
     line-height: 1.2;
     margin: 0 0 0.5em;
-    font-size: x-large
+    font-size: x-large;
 
 }
 
 #main {
   text-align: center;
-}
-
-#main img {
-  margin-bottom: 3.5rem;
 }
 
 section:not(#main) {
@@ -85,7 +81,7 @@ h3 {
 #main img {
   border: 2px solid var(--color-primary);
   border-radius: 8px;
-  margin-bottom: 2rem;
+  margin-bottom: 3.5rem;
   box-shadow: 0 0 10px rgba(100, 255, 218, 0.2);
 }
 
